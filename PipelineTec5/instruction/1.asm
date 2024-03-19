@@ -1,0 +1,3 @@
+ORG	00H
+	DB	0BH
+END

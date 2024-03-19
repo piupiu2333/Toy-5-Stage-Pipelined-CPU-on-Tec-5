@@ -1,0 +1,19 @@
+,,,ORG     00H
+0000,80,,        DB      80H
+0001,85,,        DB      85H
+0002,8A,,        DB      8AH
+0003,8F,,        DB      8FH
+0004,90,,        DB      90H
+0005,95,,        DB      95H
+0006,9A,,        DB      9AH
+0007,9F,,        DB      9FH
+0008,A0,,        DB      0A0H
+0009,A5,,        DB      0A5H
+000A,AA,,        DB      0AAH
+000B,AF,,        DB      0AFH
+000C,B0,,        DB      0B0H
+000D,B5,,        DB      0B5H
+000E,BA,,        DB      0BAH
+000F,BF,,        DB      0BFH
+000E,,,END
+,,,

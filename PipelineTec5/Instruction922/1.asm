@@ -1,0 +1,6 @@
+ORG	00H
+   DB	0BH
+   DB	3BH
+   DB	1BH
+   DB	4BH
+END
